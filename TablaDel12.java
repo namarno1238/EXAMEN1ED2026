@@ -7,7 +7,7 @@ public class TablaDel12
             System.out.println("12 * "+ i + " = " + 12 * i + "\n");
         }
         {
-            System.out.println("es la tabla del 12");
+            System.out.println("Se ha imprimido por pantalla la tabla del 12.");
         }
     }
 }
